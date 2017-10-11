@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
- furit = ["apple", "orange", "pear", "cherries"]
+ fruit = ["apple", "orange", "pear", "cherries"]
 
 end
 
